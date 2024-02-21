@@ -1,2 +1,5 @@
 # termo
-Toy terminal emulator
+
+Toy terminal emulator.
+
+Requires gtk4.
